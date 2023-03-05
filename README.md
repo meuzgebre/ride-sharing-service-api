@@ -34,10 +34,15 @@ he API endpoints are available at http://localhost:3000/api.
 ### API Endpoints
 
 ``` GET /rides ``` - get all rides
+
 ``` POST /rides ```  - create a new ride
+
 ``` GET /rides/:id ``` - get a ride by ID
+
 ``` PUT /rides/:id ``` - update a ride by ID
+
 ``` DELETE /rides/:id ``` - delete a ride by ID
+
 
 ### Contributing
 
